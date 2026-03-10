@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Mansi Matariya
+Author - Mansi (Apna college)
